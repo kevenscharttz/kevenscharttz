@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/kevenscharttz">

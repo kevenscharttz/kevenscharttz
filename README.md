@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-
+- 🌱 Atualmente estou aprendendo Javascript e Java
  <div>
    <a href="https://github.com/kevenscharttz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevenscharttz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

@@ -1,7 +1,7 @@
 ## Olá, eu sou o Keven Willians
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando mais os fundamentos do desenvolvimento web
+- 🌱 aprofundando os fundamentos do desenvolvimento web
 - 😄 Pronomes: ele/dele
  <div>
   <a href="https://github.com/kevenscharttz">

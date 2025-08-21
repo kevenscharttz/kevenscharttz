@@ -1,28 +1,21 @@
-## Olá, eu sou o Keven Willians
+# Keven Willians
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 aprofundando os fundamentos do desenvolvimento web
-- 😄 Pronomes: ele/dele
- <div>
-  <a href="https://github.com/kevenscharttz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevenscharttz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenscharttz&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
-</div>
-  
-##
- 
-<div> 
-  <a href="https://instagram.com/keven_scha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kevenscha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kevenscharttz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### Desenvolvedor PHP Laravel
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-4CAF50?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/kevenscharttz/)](https://www.linkedin.com/in/kevenscharttz/)  [![Gmail Badge](https://img.shields.io/badge/-kevenscha@gmail.com-4CAF50?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:kevenscha@gmail.com)](mailto:kevenscha@gmail.com)
+
+Meu nome é Keven Willians, ou só Keven. Estou me aperfeiçoando como Desenvolvedor PHP e UI/UX Designer. Sou extremamente apaixonado por café(com leite e açucar) e jogos.
+
+Minha primeira experiência com código foi na época dentro da faculdade. Lembro-me de ter passado alguns perrengues para entender tudo, mas desde então, tento melhorar mais e mais para continuar na área. No momento estou focado mais no Frontend, mas pretendo estudar e criar aplicações Beckend em um futuro próximo. Atualmente trabalho como estágiario em desenvolvimento na Unesc.
+
+<div style="display:flex">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
